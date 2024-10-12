@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.Form1.resources
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.FormVer.resources
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\bin\Debug\Guia1Programacion2FrancoPulido.exe.config
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\bin\Debug\Guia1Programacion2FrancoPulido.exe
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\bin\Debug\Guia1Programacion2FrancoPulido.pdb
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.exe
+C:\Users\Usuario\source\repos\Guia1Programacion2FrancoPulido\obj\Debug\Guia1Programacion2FrancoPulido.pdb
